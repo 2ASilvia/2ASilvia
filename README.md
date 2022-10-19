@@ -1,16 +1,19 @@
-### Hi there 👋
+# <img src="https://img.icons8.com/color/480/my-melody.png" width=100> Silvia Vaccher Gómez 🌸
 
-<!--
-**2ASilvia/2ASilvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Artista 3d
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://cdna.artstation.com/p/assets/images/images/050/496/980/large/silvia-vaccher-gomez-cocina11.jpg?1654988815)
+
+Hola , mi nombre es Silvia, juego al lol, gracias por escuchar. 
+
+
+
+## PROGRAMAS 
+# <img src="" width=100>
+
+
+## SKILLS
+
+## ENCUÉNTRAME EN 
+
