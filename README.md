@@ -6,7 +6,7 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/048/131/072/large/silvia-vaccher-gomez-render1espejito.jpg?1649270716" width=900> 
 <img src="https://cdnb.artstation.com/p/assets/images/images/048/835/559/large/silvia-vaccher-gomez-casa1.jpg?1651054409" width=900> 
 
-Hola , mi nombre es Silvia, juego al lol, gracias por escuchar. 
+Hola , mi nombre es Silvia, soy de Barcelona y me gusta tanto jugar videojuegos como crearlos.
 
 
 
@@ -15,6 +15,7 @@ Hola , mi nombre es Silvia, juego al lol, gracias por escuchar.
 
 
 ## SKILLS
+Diseñar , dibujar y modelar son mi especialidad.
 
 ## ENCUÉNTRAME EN 
 
